@@ -1,3 +1,5 @@
-helloworld
-==========
-this my first program.
+void main (){
+
+  NSLog(@"hello world");
+
+}
